@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DodgeTheCreeps_2D", "DodgeTheCreeps_2D.csproj", "{FC63197D-E6FC-4622-BDFB-8115438D5FCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC63197D-E6FC-4622-BDFB-8115438D5FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC63197D-E6FC-4622-BDFB-8115438D5FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC63197D-E6FC-4622-BDFB-8115438D5FCE}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{FC63197D-E6FC-4622-BDFB-8115438D5FCE}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{FC63197D-E6FC-4622-BDFB-8115438D5FCE}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{FC63197D-E6FC-4622-BDFB-8115438D5FCE}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal
